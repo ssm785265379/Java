@@ -9,5 +9,6 @@ public class Test {
 
         System.out.println("hhhh");
         System.out.println("hhhh");
+        System.out.println("hhhh");
     }
 }
